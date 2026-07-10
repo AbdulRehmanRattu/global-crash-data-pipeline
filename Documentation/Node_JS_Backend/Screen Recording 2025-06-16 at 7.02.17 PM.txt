@@ -1,0 +1,87 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+[Speaker 4]
+Create, read, update, delete set of actions, add a simple backend, and then we just want someone to be able to go through and just confirm all the security of everything's all good.
+
+[Speaker 1]
+And then the biggest thing that we really want is documentation of everything that is coded into the node project. So, you know, API documentation for all the routes, example routes, documenting the request body and the response body, all of that we'd really want heavily documented as each milestone is kind of built out. It's really not that complicated.
+
+The user module's always kind of set up within the system. So login and token access, all that's already been squared away. So kind of going forward, it's a lot of just like minor Node.js kind of application add-ons. Does that all sound like something that you guys are kind of able to do with your team or what do you guys think?
+
+[Speaker 3]
+Yeah. So we have specifically Node.js backend developer in our team. His name is Fizan, and he can deal with all of that.
+
+In fact, I thought that it's going to be very, like it's going to be a lot of features, but you mentioned create, update, and delete. Is that all? Specifically the features that we need to code new.
+
+[Speaker 1]
+Yeah, pretty much. You know, I can give you guys like a brief overview of what's outstanding is we have this very simple backend admins view that's rendered to just the admin of the system. And that just allows people to like add, for instance, like products and links and some learning modules.
+
+Yeah. You know, that's all pretty basic. It supports some image uploads as well.
+
+That's one big milestone. We have like a messaging milestone, but it's not really a real time. We've kind of scaled that back to be more like a bulletin board thing.
+
+So again, a lot of that is just writing the content, not so much deleting it. And then what else do we have left after that? I think honestly, they'll go the big milestone left for the node.
+
+Like I said, it's all pretty basic. None of it's that complex. The biggest thing that we're just running into, like Dave says, like we give it to someone, they write it.
+
+We also have spec everything out for you guys, I guess is the other thing I forgot is like, we've already defined what the routes schema should be. You guys are just implementing it. And that was another thing we're running up against.
+
+It's like, we give people these schemas and then they just like ignore it entirely. And it's like, well, we're writing the front end at the same time. And when that scheme was ignored, we have to like go back and forth and it just adds a lot of time.
+
+So a lot of it's been kind of outlined for you guys of like, okay, this, this, and this. And then you guys are really just ones implementing it into the node application and ensuring like securities there, rate limits are there, all that kind of stuff is really where we need the final touches on it.
+
+[Speaker 3]
+Yeah. Sounds good. Sounds good.
+
+We can get care of that.
+
+[Speaker 1]
+Okay.
+
+[Speaker 2]
+So, so what we'll do is I'll, I'll get you the, the files that Frank's discussed. And if you guys can put together a proposal and just let us know, and then what we'll probably do is just do one of the milestones and then kind of go step by step from there.
+
+[Speaker 3]
+Yeah. Sounds good.
+
+[Speaker 2]
+And, and again, all of this is tied to obviously the prediction model that you guys have been working on. And I think that if we can get this, you know, collectively done, then, you know, it's just, we're all keeping it in one house versus multiple teams touching all of this. And it just gets really, really diluted over time.
+
+[Speaker 3]
+Yeah.
+
+[Speaker 2]
+So, all right. I'll give you that. How soon do you think you could at least give me a proposal back?
+
+It's, it's, again, it's not, we're not, it's not overly complex, but we do want to have, like, you know, like Frank said, this thorough documentation and just get it done in a timely manner.
+
+[Speaker 3]
+Yeah. Yeah. I've understood that.
+
+It actually isn't the features that you've mentioned. They're actually very, very basic. So, it's actually very surprising that you guys haven't found anyone for that.
+
+Yeah, it's no problem. We have a, we have a senior developer that can take care of all of this. And we'll make sure that we design and write all of these documentations that you've asked for.
+
+And we'll try our best to, the schema that you already have in place, that's actually a very great support that we have. We can just follow that. And we're gonna make sure that we're following exactly that.
+
+So, it can, you know, integrate the front end. So, yeah, yeah, sounds good. I would just need the documents and we can send you the proposal by tomorrow.
+
+Yeah.
+
+[Speaker 2]
+Okay. Yeah. Perfect.
+
+Well, thank you so much.
+
+[Speaker 3]
+Yeah, you're welcome.
+
+[Speaker 2]
+Thank you. All right. Thanks.
+
+Okay. All right. Bye-bye.
+
+[Speaker 3]
+Bye. Bye.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
