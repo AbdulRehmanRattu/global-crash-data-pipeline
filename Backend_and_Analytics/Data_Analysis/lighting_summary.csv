@@ -1,0 +1,11 @@
+lgt_condname,Total_Accidents,Total_Fatalities
+Dark - Lighted,66731,71475
+Dark - Not Lighted,89282,97506
+Dark - Unknown Lighting,2801,3017
+Dawn,6103,6588
+Daylight,149790,163166
+Dusk,7804,8488
+Not Reported,500,524
+Other,151,158
+Reported as Unknown,997,1074
+Unknown,421,449
