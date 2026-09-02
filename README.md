@@ -1,5 +1,21 @@
 # Global Crash Data Pipeline & Risk Engine
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Vision-PyTorch%20%7C%20OpenCV-EE4C2C.svg?logo=pytorch&logoColor=white" alt="Vision">
+<img src="https://img.shields.io/badge/API-FastAPI-009688.svg?logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+
+**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+
+</div>
+
+---
+
 ## Overview
 This repository contains an end-to-end geospatial data pipeline and predictive analytics backend designed to aggregate global traffic accident records and calculate dynamic, real-time risk scores for specific geographic locations.
 
@@ -66,10 +82,14 @@ Below are early prototype visual captures demonstrating the progression of the T
   * `Data_Analysis/`: Code for the analytics dashboard and correlation matrices.
 * `Documentation/`: Whitepapers, Milestone Documentation, Crime Data Models, Node.js API Schemas, and mathematical specifications on algorithm improvements.
 
-## Author & Contact
+---
 
-**Abdul Rehman Rattu**
-* Email: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
-* LinkedIn: [Abdul Rehman Rattu](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+## Author & Maintainer
 
-If you have any questions regarding the implementation details, spatial analysis algorithms, or data pipelines, feel free to reach out.
+**Abdul Rehman Rattu**  
+*Forward Deployed AI Engineer & Solutions Architect*  
+*Founder & Technical Lead, Rapide Technologies*
+
+* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
+* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
